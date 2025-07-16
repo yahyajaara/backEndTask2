@@ -1,0 +1,15 @@
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\dell\OneDrive\Desktop\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\obj\Debug\Task1.exe.config
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\USER-Q\Desktop\Task1\Task1\Task1\obj\Debug\Task1.pdb
